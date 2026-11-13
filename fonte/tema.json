@@ -1,0 +1,46 @@
+{
+  "modo": "escuro",
+  "motion": "cinema",
+  "cores": {
+    "fundo": "#050507",
+    "fundo2": "#0E0711",
+    "primaria": "#C4005F",
+    "primaria2": "#FF3FA4",
+    "acento": "#FF2E93",
+    "acentoHover": "#FF6BB5",
+    "textoSobreAcento": "#14000B",
+    "realce": "#FF4FA8",
+    "texto": "#FFFFFF",
+    "suave": "#D9C6D2",
+    "brilho": "#FF2E93",
+    "brilho2": "#8A00FF"
+  },
+  "fontes": {
+    "titulo": "Barlow Condensed",
+    "texto": "Inter",
+    "wordmark": "Barlow Condensed",
+    "pesosTitulo": "600;700;800"
+  },
+  "estilo": { "cantos": "suave", "botao": "pilula", "fundo": "brilho", "hero": "imagem-direita" },
+  "logo": {
+    "modo": "simbolo+texto",
+    "texto": "Araújo Team",
+    "assinatura": ["Personal", "Mulher"],
+    "simbolo": {
+      "viewBox": "0 0 120 60",
+      "svg": "<rect x=\"2\" y=\"18\" width=\"10\" height=\"24\" rx=\"3\" fill=\"#FF2E93\"/><rect x=\"15\" y=\"8\" width=\"14\" height=\"44\" rx=\"4\" fill=\"#FF2E93\"/><rect x=\"29\" y=\"26\" width=\"62\" height=\"8\" rx=\"3\" fill=\"#FFFFFF\"/><rect x=\"91\" y=\"8\" width=\"14\" height=\"44\" rx=\"4\" fill=\"#FF2E93\"/><rect x=\"108\" y=\"18\" width=\"10\" height=\"24\" rx=\"3\" fill=\"#FF2E93\"/>"
+    }
+  },
+  "imagens": {
+    "hero": "img/hero.webp",
+    "heroW": 640,
+    "heroH": 966,
+    "heroAlt": "Personal trainer de costas em estúdio escuro, sorrindo por cima do ombro, com costas e pernas definidas pelo treino de força",
+    "heroEstilo": "fade",
+    "og": "img/og.jpg",
+    "ogW": 1200,
+    "ogH": 630,
+    "ogAlt": "Araújo Team (Personal Mulher): treino de força presencial em Uberaba e online no Brasil todo"
+  },
+  "ilustracao": { "a": "#FF2E93", "b": "#FF8CC8", "c": "#FFFFFF", "escuro": "#1A0A14" }
+}

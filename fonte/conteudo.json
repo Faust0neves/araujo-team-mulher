@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "dominio": "esquinaco.com.br",
+    "caminho": "/araujo-team-mulher/",
+    "idioma": "pt-BR",
+    "titulo": "Araújo Team (Personal Mulher): treino presencial e online",
+    "descricao": "Personal trainer para mulheres: treino individual e acompanhamento presencial em Uberaba (MG) e online para todo o Brasil. Fale pelo WhatsApp.",
+    "nomeCurto": "Araújo Team",
+    "marcaCompleta": "Araújo Team (Personal Mulher)",
+    "empresa": "Araújo Team"
+  },
+  "cta": {
+    "whatsapp": "5534984312066",
+    "mensagem": "Oi! Vi a página da Araújo Team e quero saber mais sobre o treino para mulheres (presencial em Uberaba ou online)."
+  },
+  "menu": [
+    { "texto": "Como funciona", "ancora": "#como-funciona" },
+    { "texto": "Para quem", "ancora": "#vitrine" },
+    { "texto": "Atendimento", "ancora": "#oferta" },
+    { "texto": "Perguntas", "ancora": "#perguntas" }
+  ],
+  "ctaTopo": "Quero treinar",
+  "barraMobile": { "titulo": "Personal Mulher", "sub": "Uberaba e online no Brasil todo", "botao": "Chamar" },
+  "secoes": ["heroi", "fatos", "dores", "como", "cena", "beneficios", "vitrine", "oferta", "garantias", "resumo", "faq", "final"],
+  "heroi": {
+    "selo": "Araújo Team · Personal Mulher",
+    "seloIcone": "estrela",
+    "titulo": "Treino de *força* feito para o seu corpo | e para a sua rotina.",
+    "subtitulo": "Personal trainer para mulheres: **presencial em Uberaba** e **online para todo o Brasil**. Treino individual, ajustado ao seu nível e acompanhado de perto.",
+    "cta": "Quero treinar comigo",
+    "ctaSecundario": { "texto": "Ver como funciona", "ancora": "#como-funciona" },
+    "nota": "Conversa inicial pelo WhatsApp: você conta seu objetivo e **recebe a proposta antes de decidir.**",
+    "chips": [
+      { "icone": "pino", "texto": "Presencial em Uberaba" },
+      { "icone": "globo", "texto": "Online no Brasil todo" },
+      { "icone": "pessoas", "texto": "Treino individual" }
+    ],
+    "flutuantes": [
+      { "icone": "ok", "t": "Treino montado", "d": "para o seu nível" },
+      { "icone": "chat", "t": "Acompanhamento", "d": "pelo WhatsApp" }
+    ],
+    "visual": "foto"
+  },
+  "fatos": [
+    { "k": "Uberaba", "v": "treino presencial, com horário combinado" },
+    { "k": "Brasil", "v": "acompanhamento online, de onde você estiver" },
+    { "k": "1 a 1", "v": "treino pensado para uma mulher, não para a turma" },
+    { "k": "Força", "v": "pesos, anilhas e halteres com técnica e progressão" }
+  ],
+  "dores": {
+    "rotulo": "O jeito antigo",
+    "titulo": "Treinar sem direção cansa e *desanima*",
+    "subtitulo": "Muita mulher começa animada e para no meio do caminho. Quase sempre é por um destes três motivos.",
+    "itens": [
+      { "t": "Ficha genérica", "d": "O mesmo treino que serve para todo mundo e não considera seu nível, sua rotina nem o que você quer para o seu corpo." },
+      { "t": "Academia sozinha", "d": "Você chega, olha para os aparelhos e não sabe qual carga usar, quantas séries fazer ou se o movimento está certo." },
+      { "t": "Começa e para", "d": "Sem alguém para ajustar o treino e cobrar com carinho, a constância some na primeira semana corrida." }
+    ],
+    "virada": "No Araújo Team a ordem se inverte: **primeiro o treino é montado para você,** depois você segue com alguém ao lado.",
+    "comparativo": {
+      "legenda": "Comparativo entre ficha genérica, treinar sozinha e o Araújo Team",
+      "colunas": ["Critério", "Ficha genérica ou sozinha", "Araújo Team"],
+      "linhas": [
+        ["Treino pensado para você", "Igual ao de todo mundo", "Montado a partir do seu objetivo e nível"],
+        ["Correção da técnica", "Por conta própria", "Orientação do profissional"],
+        ["Ajuste de carga", "Na base do palpite", "Progressão acompanhada"],
+        ["Quando a rotina aperta", "Você abandona", "O treino se adapta à sua semana"],
+        ["Onde acontece", "Só onde você está", "Presencial em Uberaba ou online"]
+      ]
+    },
+    "cta": { "texto": "Quero meu treino", "nota": "Sem compromisso para conversar.", "pos": "problema" }
+  },
+  "como": {
+    "rotulo": "Como funciona",
+    "titulo": "Da primeira conversa ao treino *em ação*",
+    "passos": [
+      { "t": "Você chama no WhatsApp", "d": "Conta seu objetivo, sua rotina, se treina em academia ou em casa e se prefere presencial ou online." },
+      { "t": "Montamos o seu plano", "d": "O treino de força é montado para o seu nível, com os exercícios, as cargas e a frequência que cabem na sua semana." },
+      { "t": "Você treina com acompanhamento", "d": "Em Uberaba, ao vivo. No online, com vídeos explicativos e ajustes pelo WhatsApp conforme você evolui." }
+    ],
+    "cta": { "texto": "Começar pelo WhatsApp", "pos": "como-funciona" }
+  },
+  "cena": {
+    "rotulo": "Na prática",
+    "titulo": "A sua semana de treino, *organizada*",
+    "subtitulo": "Exemplo ilustrativo de como o acompanhamento fica organizado. Os números não são de nenhuma aluna.",
+    "tipo": "painel",
+    "dados": {
+      "titulo": "Semana de treino",
+      "metricas": [
+        { "rot": "Treinos na semana", "valor": 4 },
+        { "rot": "Séries concluídas", "valor": 36 },
+        { "rot": "Carga no agachamento", "valor": 60, "sufixo": " kg" }
+      ]
+    }
+  },
+  "beneficios": {
+    "rotulo": "Por que o Araújo Team",
+    "titulo": "Treino sério, *com cuidado*",
+    "subtitulo": "Tudo foi pensado para quem quer treinar com segurança e sentir que tem alguém ao lado.",
+    "itens": [
+      { "icone": "pessoas", "t": "Treino feminino", "d": "Exercícios e progressão pensados para o corpo, a rotina e os objetivos da mulher." },
+      { "icone": "caneta", "t": "Plano individual", "d": "Nada de ficha pronta: o seu treino é montado a partir da sua conversa inicial." },
+      { "icone": "olho", "t": "Foco na técnica", "d": "Orientação sobre execução e postura para treinar com segurança e evoluir com consistência." },
+      { "icone": "pino", "t": "Presencial em Uberaba", "d": "Treino ao vivo, com horário combinado e atenção total ao seu movimento." },
+      { "icone": "globo", "t": "Online no Brasil todo", "d": "Acompanhamento à distância, com treino explicado e ajustes pelo WhatsApp." },
+      { "icone": "chat", "t": "Suporte pelo WhatsApp", "d": "Dúvida no meio do treino? Você fala direto com quem montou o seu plano." }
+    ],
+    "cta": { "texto": "Quero treinar", "pos": "beneficios" }
+  },
+  "vitrine": {
+    "rotulo": "Para quem é",
+    "titulo": "Para a mulher que quer *treinar de verdade*",
+    "subtitulo": "Do primeiro dia na musculação ao retorno depois de uma pausa.",
+    "itens": [
+      { "n": "Começando agora", "p": "Primeira vez na musculação, do zero", "c": "#FF2E93" },
+      { "n": "Força e massa muscular", "p": "Progressão de carga com técnica", "c": "#C4005F" },
+      { "n": "Glúteos e pernas", "p": "Foco no treino de membros inferiores", "c": "#FF6BB5" },
+      { "n": "Treino em casa", "p": "Com os equipamentos que você tem", "c": "#8A00FF" },
+      { "n": "Voltando a treinar", "p": "Retomada depois de uma pausa", "c": "#FF4FA8" }
+    ],
+    "publico": ["Iniciantes", "Quem já treina", "Quem treina em casa", "Quem mora fora de Uberaba"]
+  },
+  "oferta": {
+    "selo": "Atendimento",
+    "titulo": "Presencial em Uberaba ou *online no Brasil todo*",
+    "texto": "Você escolhe o formato que cabe na sua vida. Os valores e as condições são passados pelo WhatsApp, antes de qualquer decisão.",
+    "inclui": [
+      "Conversa inicial para entender seu objetivo e sua rotina",
+      "Treino de força individual, montado para o seu nível",
+      "Orientação de técnica e progressão de carga",
+      "Acompanhamento pelo WhatsApp",
+      "Formato presencial em Uberaba ou online"
+    ],
+    "preco": { "valor": "Sob consulta" },
+    "rotulo": "Valores",
+    "botao": "Pedir os valores",
+    "aviso": "Valores e condições combinados por mensagem, conforme o formato escolhido."
+  },
+  "garantias": {
+    "rotulo": "Segurança",
+    "titulo": "Por que você pode *confiar*",
+    "subtitulo": "Clareza antes de começar, cuidado enquanto você treina.",
+    "itens": [
+      { "icone": "etiqueta", "t": "Valores antes de decidir", "d": "Você recebe os valores e as condições por mensagem e só segue se fizer sentido para você." },
+      { "icone": "escudo", "t": "Treino com cuidado", "d": "Se você tem alguma restrição ou dor, conta na conversa inicial e o plano leva isso em conta." },
+      { "icone": "chat", "t": "Fala com quem treina você", "d": "O contato é direto, sem atendente no meio: você conversa com quem monta o seu plano." }
+    ]
+  },
+  "resumo": {
+    "rotulo": "Em resumo",
+    "titulo": "Araújo Team em *poucas linhas*",
+    "texto": "Araújo Team (Personal Mulher) é um serviço de personal trainer para mulheres, com treino individual de força, presencial em Uberaba (MG) e online para todo o Brasil.",
+    "itens": [
+      ["O que é", "Personal trainer com treino individual de força para mulheres."],
+      ["Para quem", "Mulheres, iniciantes ou experientes."],
+      ["Onde", "Presencial em Uberaba (MG) e online em todo o Brasil."],
+      ["Como começar", "Conversa pelo WhatsApp, plano montado e acompanhamento."],
+      ["Valores", "Informados por mensagem, antes da decisão."],
+      ["Idioma", "Português do Brasil."]
+    ]
+  },
+  "faq": {
+    "rotulo": "Perguntas frequentes",
+    "titulo": "Tire suas *dúvidas*",
+    "itens": [
+      { "q": "Como funciona o treino online?", "a": "Você recebe o plano de treino montado para o seu nível, com os exercícios explicados, e fala com a personal pelo WhatsApp para tirar dúvidas e ajustar o treino conforme evolui. Funciona de qualquer cidade do Brasil." },
+      { "q": "Onde acontece o treino presencial?", "a": "O atendimento presencial é em Uberaba (MG). O local e os horários são combinados pelo WhatsApp, de acordo com a sua rotina." },
+      { "q": "Quanto custa?", "a": "Os valores dependem do formato escolhido, presencial ou online. Você recebe a proposta completa pelo WhatsApp, antes de decidir qualquer coisa." },
+      { "q": "Nunca treinei. Posso começar?", "a": "Pode. O plano é montado para o seu nível, começando do básico, com orientação sobre como executar cada exercício." },
+      { "q": "Posso treinar em casa?", "a": "Sim. Na conversa inicial você conta quais equipamentos tem, como halteres, elásticos ou nenhum, e o treino é montado com o que está ao seu alcance." },
+      { "q": "Tenho dor ou alguma restrição. Posso treinar?", "a": "Conte na conversa inicial. O treino é ajustado ao que você relata e, quando necessário, a orientação é buscar a liberação de um profissional de saúde antes de começar." },
+      { "q": "Existe treino só para mulheres?", "a": "O Araújo Team atende apenas o público feminino. Cada plano é individual: considera seu nível, sua rotina, seu histórico e o seu objetivo." },
+      { "q": "Vocês prometem um resultado em prazo certo?", "a": "Não. Cada corpo responde de um jeito. O que a gente oferece é um treino bem montado, técnica, progressão e acompanhamento para você treinar com constância." }
+    ],
+    "cta": { "texto": "Falar pelo WhatsApp", "nota": "Resposta por mensagem em horário comercial.", "pos": "faq" }
+  },
+  "final": {
+    "titulo": "Chega de treinar *sem direção.*",
+    "texto": "Chame no WhatsApp, conte seu objetivo e receba a proposta. Presencial em Uberaba ou online, de onde você estiver.",
+    "botao": "Quero treinar comigo",
+    "nota": "Atendimento para mulheres · Uberaba e online"
+  },
+  "rodape": {
+    "texto": "Araújo Team (Personal Mulher). Atendimento presencial em Uberaba (MG) e online em todo o Brasil.",
+    "links": [],
+    "copy": "© 2026 Araújo Team"
+  },
+  "seo": {
+    "empresa": { "nome": "Araújo Team", "url": "https://esquinaco.com.br/araujo-team-mulher/" },
+    "servico": {
+      "nome": "Personal trainer para mulheres, presencial e online",
+      "tipo": "Serviço de personal trainer",
+      "descricao": "Treino individual de força para mulheres, com acompanhamento presencial em Uberaba (MG) e online para todo o Brasil.",
+      "area": "Uberaba (MG) e Brasil (online)"
+    },
+    "howTo": { "nome": "Como começar a treinar com o Araújo Team" }
+  },
+  "ilustracao": { "segmento": "academia", "cena": "palco", "propsNosBeneficios": true }
+}
